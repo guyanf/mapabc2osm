@@ -1,0 +1,77 @@
+# rar,zip
+*.rar
+*.zip
+
+# python
+*.pyc
+*.pyd
+*.pyo
+
+*.out
+
+# png
+*.svg
+*.ico
+*.png
+*.jpg
+*.tif
+*.mov
+*.mp4
+*.avi
+*.AVI
+
+# gis data
+*.mid
+*.mif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.qpj
+*.csv
+*.json
+*.geojson
+*.las
+*.osm
+*.pbf
+*.qml
+
+# data
+*.data
+*.xml
+*.dat
+*.idx
+*.bundle
+*.bundlx
+*.log
+*.ldb
+*.json
+*.mvt
+CURRENT
+LOCK
+LOG
+MANIFEST-*
+
+# folder
+./db*
+./330-vector-tile/data
+./t_pygame
+./t_*
+./temp
+./text
+./sklearn-test
+./cubemap
+./fishnet_voronoi
+./ttt373
+./svn_code
+./t_flask
+./turtle-test
+./t_pandas
+./Image-Correction
+./pytorch_test
+./opencv-tests
+./t_pyqt
+./lidar-test
+./广州黄埔
+t_selfdriver
