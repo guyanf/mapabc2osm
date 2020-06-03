@@ -7,6 +7,7 @@ import osmium as o
 
 import sys
 
+
 class Convert(o.SimpleHandler):
 
     def __init__(self, writer):
@@ -21,6 +22,7 @@ class Convert(o.SimpleHandler):
 
     def relation(self, r):
         self.writer.add_relation(r)
+
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
